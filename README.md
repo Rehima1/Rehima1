@@ -8,10 +8,7 @@
 
 ## 🛠️ Languages and Frameworks
 
-<img src="https://img.icons8.com/color/48/000000/python.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/> 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/> 
+<img src="https://img.icons8.com/color/48/000000/python.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/> 
 
 ## 🛠️ Platforms and Tools
 
