@@ -4,7 +4,7 @@
 - 📬 How to reach me: [rehimakemal224@gmail.com](mailto:rehimakemal224@gmail.com)
 - 😄 Pronouns: she/her
 - 🎤 Ask me about my latest project 
-- 📸 Fun fact: I'm a photographer in my spare time, capturing moments of nature and rural life!
+- 📸 Fun fact: I'm a photographer in my spare time
 
 ## 🛠️ Languages and Frameworks
 
