@@ -12,7 +12,9 @@
 
 ## 🛠️ Platforms and Tools
 
-<img src="https://img.icons8.com/color/48/000000/github.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Google_Colab_logo.svg/1200px-Google_Colab_logo.svg.png" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/github.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original-wordmark.svg" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>
+
 
 
 
