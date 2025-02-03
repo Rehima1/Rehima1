@@ -19,8 +19,20 @@
 <img src="https://img.icons8.com/color/48/000000/github.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/linux.png" width="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehima1&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
 
+## 🔝 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehima1&layout=compact&theme=dark" />
+</p>
 
+## 📈 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehima1&theme=dark" alt="GitHub Streak" />
+</p>
 
 
 
