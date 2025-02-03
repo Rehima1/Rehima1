@@ -20,9 +20,22 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="40" height="40"/>
 
 ## 📊 GitHub Stats
-<p align="left" display= "flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehima1&layout=compact&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api?username=Rehima1&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehima1&theme=dark" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehima1&layout=compact&theme=dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rehima1&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehima1&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 
 
