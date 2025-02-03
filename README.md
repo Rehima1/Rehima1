@@ -21,10 +21,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rehima1&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehima1&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehima1&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehima1&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehima1&theme=dark" alt="GitHub Streak" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehima1&layout=compact&theme=dark" />
 </p>
+
 
 
 
