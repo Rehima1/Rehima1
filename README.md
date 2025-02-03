@@ -5,6 +5,8 @@
 - 😄 Pronouns: she/her
 - 🎤 Ask me about my latest project 
 - 📸 Fun fact: I'm a photographer in my spare time
+- ![Profile views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blue&style=flat)
+
 
 ## 🛠️ Languages and Frameworks
 
